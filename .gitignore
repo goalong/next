@@ -1,0 +1,82 @@
+.DS_Store
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+bin/
+build/
+develop-eggs/
+dist/
+eggs/
+#lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+*.css.map
+*.csv
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+
+# Translations
+#*.mo
+*.csv
+
+# Rope
+.ropeproject
+
+# Django stuff:
+*.log
+*.pot
+log.txt
+
+# Sphinx documentation
+docs/_build/
+
+# PyCharm
+.idea/
+
+#nut/settings/
+# Node tools
+node_modules
+node_modules/
+
+nut/media/upload/
+
+log.txt
+=======
+# Vim stuff
+*.swp
+
+*.sqlite3
+*.rdb
+
+
+
+*.pid
+
+
+
+
+
